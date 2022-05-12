@@ -21,7 +21,7 @@ export const BRAND_NAME = 'Code Infinity';
 export const SITE_NAME_MULTILINE = ['Code', 'Infinity'];
 export const SITE_NAME = 'Code Infinity';
 export const META_DESCRIPTION =
-  'This is an open source demo that Next.js developers can clone, deploy, and fully customize for events. Created through collaboration of marketers, designers, and developers at Vercel.';
+  'This hackathon is built upon the experiences of each individual. Whether you’re a first timer or an experienced hacker, Our Hackathons has empowered students of all levels to take their ideas to the next step by fostering a community of learning, mentorship, and fun.';
 export const SITE_DESCRIPTION =
   'An interactive online experience by the community, free for everyone.';
 export const DATE = '02 July 2022';
