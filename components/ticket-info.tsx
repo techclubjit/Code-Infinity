@@ -41,7 +41,7 @@ export default function TicketInfo({ logoTextSecondaryColor = 'var(--accents-5)'
         <div>{DATE}</div>
         <div>OFFLINE</div>
       </div>
-      <div className={styleUtils['hide-on-mobile']}>TechClub JTI</div>
+      <div className={styleUtils['hide-on-mobile']}>TechClub JIT</div>
       <div className={styles.url}>{siteUrlForTicket}</div>
       <div className={styleUtils['show-on-mobile']}>TechClub JIT</div>
     </div>

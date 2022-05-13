@@ -89,9 +89,8 @@ export default function Ticket({ username, name, ticketNumber, sharePage }: Prop
               </>
             ) : (
               <>
-                We are generating a unique ticket image with{' '}
+                We are generating a unique ticket image with your Team profile.
                 <br className={styleUtils['hide-on-mobile']} />
-                your Team profile.
               </>
             )}
           </p>
