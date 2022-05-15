@@ -46,7 +46,7 @@ export const NAVIGATION = [
   },
   {
     name: 'About',
-    route: '/stage/a'
+    route: '/aboutus'
   },
   {
     name: 'Schedule',

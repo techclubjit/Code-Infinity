@@ -45,7 +45,7 @@ export default function Layout({
 }: Props) {
   const router = useRouter();
   const activeRoute = router.asPath;
-  const disableCta = ['/schedule', '/speakers', '/expo', '/jobs'];
+  const disableCta = ['/schedule', '/speakers', '/expo', '/aboutus'];
   return (
     <>
       <div className={styles.background}>
