@@ -23,7 +23,6 @@ import Header from '@components/header';
 
 import { getAllStages } from '@lib/cms-api';
 import { Stage } from '@lib/types';
-import { META_DESCRIPTION } from '@lib/constants';
 
 type Props = {
   allStages: Stage[];
@@ -32,7 +31,7 @@ type Props = {
 export default function SchedulePage({ allStages }: Props) {
   const meta = {
     title: 'Schedule - Code Infinity',
-    description: META_DESCRIPTION
+    description: "Schedule to be announced soon"
   };
 
   return (
